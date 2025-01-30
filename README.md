@@ -1,13 +1,7 @@
+<h1>Infosys Springboard Internship</h1>
 
-    <title>Infosys Springboard Internship</title>
+This repository contains the assignments and projects I have undertaken during my internship at Infosys Springboard. These projects reflect my practical learning, technical skills, and problem-solving abilities applied to real-world scenarios.
 
-    <h1>Infosys Springboard Internship Repository</h1>
+The repository includes a variety of assignments covering different domains mainly focusing on artificial intelligence and machine learning, allowing me to gain hands-on experience and enhance my knowledge. It serves as a comprehensive portfolio showcasing my growth and contributions throughout the internship.
 
-    <h2>Overview</h2>
-    <p>This repository contains the assignments and projects I have undertaken during my internship at Infosys Springboard. These projects reflect my practical learning, technical skills, and problem-solving abilities applied to real-world scenarios.</p>
-
-    <h2>Contents</h2>
-    <p>The repository includes a variety of assignments covering different domains mainly focusing on artificial intelligence and machine learning, allowing me to gain hands-on experience and enhance my knowledge. It serves as a comprehensive portfolio showcasing my growth and contributions throughout the internship.</p>
-
-
-
+  
